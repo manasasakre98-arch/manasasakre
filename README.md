@@ -1,30 +1,95 @@
-# Hi, I'm Manasa 👋
+# Hi there, I'm Manasa 👋
 
-🌱 **Aspiring Full-Stack Developer**  
-💻 Learning **Python | JavaScript | Web Development**  
-🎯 Always setting my **Goals High 🚀**
-
----
-
-## 🚀 What I’m Working On
-- Improving my coding skills step by step  
-- Building projects and sharing them here on GitHub  
+🎓 Final-Year Computer Science Engineering Student
+💻 Full-Stack Developer | AI & Web Development Enthusiast
+🚀 Passionate about building real-world applications that solve meaningful problems.
 
 ---
 
-## 🛠️ Skills
-- Python (Beginner, exploring basics)  
-- JavaScript (Currently learning)  
-- HTML & CSS (Web development foundation)  
+## 👩‍💻 About Me
+
+* 🌱 Currently strengthening my skills in Full-Stack Development.
+* 🧠 Practicing Data Structures & Algorithms to improve problem-solving.
+* 🤖 Exploring AI-powered web applications and modern development tools.
+* 🎯 Preparing for Software Development internships and full-time opportunities.
+* 📚 Always learning, building, and improving.
 
 ---
 
-## 📚 Learning Goals
-- Create real-world projects  
-- Learn React.js & Node.js  
-- Contribute to open-source  
+## 🚀 Featured Projects
+
+### 🛡️ PhishLens
+
+AI-powered phishing detection platform that analyzes URLs, messages, and emails while spreading cybersecurity awareness.
+
+**Tech Stack:** HTML, CSS, JavaScript, Python, Flask
 
 ---
 
-## 📫 Connect
-✉️ Email: manasasakre98@gmail.com
+### 🏫 Smart Campus Automation
+
+A web application that simplifies campus management for students, faculty, and administrators.
+
+**Tech Stack:** HTML, CSS, JavaScript, Firebase
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+* JavaScript
+* Python
+* C++
+* HTML
+* CSS
+
+**Frontend**
+
+* React (Learning)
+
+**Backend**
+
+* Node.js (Learning)
+* Flask
+* FastAPI
+
+**Database**
+
+* Firebase
+
+**Tools**
+
+* Git
+* GitHub
+* VS Code
+
+---
+
+## 📖 Currently Learning
+
+* React.js
+* Node.js
+* Express.js
+* Advanced JavaScript
+* System Design Basics
+
+---
+
+## 🎯 2026 Goals
+
+* Build impactful full-stack projects
+* Strengthen DSA and problem-solving skills
+* Contribute to open-source projects
+* Earn a Software Developer internship
+* Continuously improve as an engineer
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: **[manasasakre98@gmail.com](mailto:manasasakre98@gmail.com)**
+
+💼 LinkedIn: *(https://www.linkedin.com/in/manasa-sakre-2566342bb?)*
+
+🌐 Portfolio: *(Coming Soon)*
